@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Rita Gaio
+N:Gaio;Rita;;;
+ORG:Vipex
+TITLE:Departamento de Marketing
+TEL;TYPE=CELL:+351911548645
+EMAIL;TYPE=INTERNET:rita.gaio@vipex.pt
+URL:https://www.linkedin.com/company/vipex-plastics
+ADR:;;Marinha Grande;;;;
+NOTE:Contato de marketing - Vipex
+PHOTO;ENCODING=BASE64;TYPE=JPEG:
+/9j/4AAQSkZJRgABAQEASABIAAD/... (aqui vai o conteúdo Base64 da imagem)
+END:VCARD
